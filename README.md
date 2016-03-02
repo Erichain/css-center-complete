@@ -2,9 +2,9 @@
 Code for centering things in css. From https://css-tricks.com/centering-css-complete-guide/
 
 ## Language
-[English]()
+[English](https://github.com/Erichain/css-center-complete)
 
-[简体中文]()
+[简体中文](https://github.com/Erichain/css-center-complete/blob/master/README-ZH_CN.md)
 
 ## Contents
 To make everyone understand the centering in css, we use a tree contents.
@@ -25,4 +25,5 @@ To make everyone understand the centering in css, we use a tree contents.
   + [Element of fixed height and width]()
   + [Element of unknow height and width]()
   + [Using flexbox]()
-  + 
+
+Every situation has its own code pen, you can click the link to reach.
