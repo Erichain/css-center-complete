@@ -1,0 +1,20 @@
+body {
+    background: #f06d06;
+    font-size: 80%;
+}
+
+main {
+    background: white;
+    margin: 20px 0;
+    padding: 40px;
+}
+
+main div {
+    background: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    padding: 20px;
+    width: 50%;
+    white-space: nowrap;
+}

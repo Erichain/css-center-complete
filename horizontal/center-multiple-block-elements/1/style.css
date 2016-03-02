@@ -1,0 +1,31 @@
+body {
+    background: #f06d06;
+    font-size: 80%;
+}
+
+main {
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+main div {
+    background: black;
+    color: white;
+    padding: 15px;
+    max-width: 125px;
+    margin: 5px;
+}
+
+.inline-block-center {
+    text-align: center;
+}
+.inline-block-center div {
+    display: inline-block;
+    text-align: left;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}

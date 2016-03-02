@@ -1,0 +1,17 @@
+body {
+    background: #f06d06;
+    font-size: 80%;
+}
+
+main {
+    background: white;
+    margin: 20px 0;
+    padding: 50px;
+}
+
+main a {
+    background: black;
+    color: white;
+    padding: 40px 30px;
+    text-decoration: none;
+}

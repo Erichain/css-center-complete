@@ -1,7 +1,5 @@
-## Centering an inline element with multiple lines vertically
+## Centering an inline element with one line vertically
 
-[Code Pen Link 1](http://codepen.io/chriscoyier/pen/ekoFx)
+[Code Pen Link 1](http://codepen.io/chriscoyier/pen/ldcwq)
 
-[Code Pen Link 2](http://codepen.io/chriscoyier/pen/uHygv)
-
-[Code Pen Link 3](http://codepen.io/chriscoyier/pen/ofwgD)
+[Code Pen Link 2](http://codepen.io/chriscoyier/pen/LxHmK)

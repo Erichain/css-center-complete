@@ -1,0 +1,27 @@
+body {
+    background: #f06d06;
+    font-size: 80%;
+}
+
+main {
+    background: white;
+    height: 300px;
+    margin: 20px;
+    width: 300px;
+    position: relative;
+    resize: vertical;
+    overflow: auto;
+}
+
+main div {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    right: 20px;
+    background: black;
+    color: white;
+    padding: 20px;
+    transform: translateY(-50%);
+    resize: vertical;
+    overflow: auto;
+}

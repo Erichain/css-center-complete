@@ -3,23 +3,24 @@ body {
     font-size: 80%;
 }
 
-main {
+div {
     background: white;
-    height: 300px;
-    width: 200px;
-    padding: 20px;
+    width: 240px;
     margin: 20px;
+}
+
+.flex-center {
+    background: black;
+    color: white;
+    border: 10px solid white;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    height: 200px;
     resize: vertical;
     overflow: auto;
 }
-
-main div {
-    background: black;
-    color: white;
+.flex-center p {
+    margin: 0;
     padding: 20px;
-    resize: vertical;
-    overflow: auto;
 }

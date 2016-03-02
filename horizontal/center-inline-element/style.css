@@ -1,0 +1,18 @@
+body {
+    background: #f06d06;
+}
+
+header, nav {
+    text-align: center;
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    background: #333;
+    border-radius: 5px;
+    color: white;
+    padding: 3px 8px;
+}
