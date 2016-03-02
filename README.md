@@ -9,11 +9,11 @@ Code for centering things in css. From https://css-tricks.com/centering-css-comp
 ## Contents
 To make everyone understand the centering in css, we use a tree contents.
 
-- [Horizontally]()
+- [Horizontally](https://github.com/Erichain/css-center-complete/tree/master/horizontal)
   + [Centering inline or inline-* elements (like link or text) horizontally]()
   + [Centering block level elements horizontally]()
   + [Centering more than one block level elments horizontally]()
-- [Vertically]()
+- [Vertically](https://github.com/Erichain/css-center-complete/tree/master/vertical)
   + [Centering inline or inline-* elements (like link or text) vertically]()
     - [Single line]()
     - [Multiple lines]()
@@ -21,7 +21,7 @@ To make everyone understand the centering in css, we use a tree contents.
     - [Know the height of the element]()
     - [Unknow the height of the element]()
     - [Using Flexbox]()
-- [Both Horizontally and Vertically]()
+- [Both Horizontally and Vertically](https://github.com/Erichain/css-center-complete/tree/master/horizontal%26%26vertical)
   + [Element of fixed height and width]()
   + [Element of unknow height and width]()
   + [Using flexbox]()
