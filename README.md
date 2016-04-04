@@ -1,8 +1,7 @@
 # css-center-complete
-Code for centering things in css. From https://css-tricks.com/centering-css-complete-guide/
+Code for centering elements in css. From https://css-tricks.com/centering-css-complete-guide/
 
-## Language
-[English](https://github.com/Erichain/css-center-complete)
+## Translation
 
 [简体中文](https://github.com/Erichain/css-center-complete/blob/master/README-ZH_CN.md)
 
@@ -26,4 +25,7 @@ To make everyone understand the centering in css, we use a tree contents.
   + [Element of unknown height and width](https://github.com/Erichain/css-center-complete/tree/master/horizontal%26%26vertical/unknown-height-and-width)
   + [Using flexbox](https://github.com/Erichain/css-center-complete/tree/master/horizontal%26%26vertical/flexbox)
 
-Every situation has its own code pen, you can click the link to reach.
+Every situation has its own code pen link.
+
+### License
+Release under the MIT License.
