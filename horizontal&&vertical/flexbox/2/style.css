@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.elem-to-center {
+    /* It's not necessary for width and height */
+    /* With no width and height, it's size will be `max-content` */
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    font-size: 30px;
+    line-height: 400px;
+    color: #ffc719;
+    text-align: center;
+    background: #161616;
+}
